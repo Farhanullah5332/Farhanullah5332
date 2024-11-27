@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Farhanullah5332/Farhanullah5332/blob/main/White%20Cream%20Minimalist%20Elegant%20Virtual%20Assistant%20Facebook%20Cover%20Photo.png" alt="cover photo">
+<img align="center" src="https://github.com/Farhanullah5332/Farhanullah5332/blob/main/123.png" alt="cover photo">
 <h1 align="center">👋 Hi, I'm <span style="color: #00FFFF;">FARHAN</span>!</h1>
 <h3 align="center">💻 Software Engineer | Full-Stack Developer | MERN Stack Enthusiast</h3>
 
