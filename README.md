@@ -20,7 +20,10 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <span> ABOUT ME </span>
+</h2>
 <div align="center">
   <table>
     <tr>
@@ -44,7 +47,10 @@
 </div>
 
 <!-- SKILLS SECTION -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <span> Tech Arsenal </span>
+</h2>
 
 <div align="center">
 
@@ -66,20 +72,30 @@
 </div>
 
 <!-- CODE STATS SECTION -->
-<h2 align="center">⚡ Code Stats</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <span> Code Stats </span>
+</h2>
+
 
 <div align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanullah5332&theme=radical" alt="Profile Details" />
 <div>
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=farhanullah5332&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanullah5332&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF9C00" alt="GitHub Streak" />
-  </div>
-  
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=farhanullah5332&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6" width="100%" alt="GitHub Trophies"/>
+
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=farhanullah5332&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF9C00" alt="GitHub Streak" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=farhanullah5332&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+ 
   <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanullah5332&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanullah5332&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <!-- PROJECTS SHOWCASE -->
-<h2 align="center">🏆 Featured Projects</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <span> Featured Projects </span>
+</h2>
+
 
 <div align="center">
   <table>
@@ -166,14 +182,24 @@
   </table>
 </div>
 
-<!-- GITHUB TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+
+
+
+<!-- DEV QUOTE -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <span> Dev Quote </span>
+</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanullah5332&theme=nord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
 <!-- CONNECT SECTION -->
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <span> Let's Connect </span>
+</h2>
+
 
 <div align="center">
   <a href="https://wa.me/+923199485031" target="_blank">
@@ -193,22 +219,14 @@
   </a>
 </div>
 
-<!-- DEV QUOTE -->
-<h2 align="center">💭 Dev Quote</h2>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
 
-<!-- SPOTIFY PLAYING -->
-<h2 align="center">🎧 Coding to the Rhythm</h2>
-<div align="center">
-  <a href="https://open.spotify.com/user/yourspotifyusername">
-    <img src="https://novatorem-ten-theta.vercel.app/api/spotify" alt="Spotify Playing" width="350" />
-  </a>
-</div>
 
 <!-- SUPPORT SECTION -->
-<h2 align="center">☕ Support My Work</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <span> Support My Work </span>
+</h2>
+
 <div align="center">
   <p>If you find my work valuable or helpful, consider supporting me!</p>
   <a href="https://www.buymeacoffee.com/farhanullah" target="_blank">
@@ -216,11 +234,7 @@
   </a>
 </div>
 
-<!-- GITHUB CONTRIBUTION CALENDAR -->
-<h2 align="center">📅 Contribution Calendar</h2>
-<div align="center">
-  <img src="https://github-readme-calendar.vercel.app/?username=farhanullah5332&theme=dracula" alt="GitHub Contribution Calendar" width="830"/>
-</div>
+
 
 <!-- FOOTER -->
 <div align="center">
