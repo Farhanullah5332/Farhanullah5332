@@ -83,13 +83,14 @@
 <div>
 <div align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=farhanullah5332&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6" width="100%" alt="GitHub Trophies"/>
-
+    <div>
+<div align="center">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=farhanullah5332&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF9C00" alt="GitHub Streak" />
     <img  src="https://github-readme-stats.vercel.app/api?username=farhanullah5332&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
- 
   <div>
+    <div align="center">
     <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanullah5332&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
+  <div>
 <!-- PROJECTS SHOWCASE -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
