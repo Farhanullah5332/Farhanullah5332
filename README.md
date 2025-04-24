@@ -82,7 +82,7 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanullah5332&theme=radical" alt="Profile Details" />
 <div>
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=farhanullah5332&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8" width="100%" alt="GitHub Trophies"/>
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=farhanullah5332&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8" width="100%" alt="GitHub Trophies"/>
     <div>
 <div align="center">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=farhanullah5332&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF9C00" alt="GitHub Streak" />
