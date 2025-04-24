@@ -16,7 +16,7 @@
 
 <!-- 🔥 MOTIVATIONAL DYNAMIC TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=fffff&center=true&vCenter=true&random=false&width=800&height=100&lines=Dream+Big.+Code+Bigger.;Success+is+built+one+commit+at+a+time.;Code+like+you+mean+it+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=8338EC&center=true&vCenter=true&random=false&width=800&height=100&lines=Dream+Big.+Code+Bigger.;Success+is+built+one+commit+at+a+time.;Code+like+you+mean+it+🚀" />
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -97,90 +97,144 @@
 </h2>
 
 
-<div align="center">
-  <table>
+  <!-- Project Cards -->
+  <div align="center">
+    <!-- Project 1 -->
+    <a href="" style="text-decoration:none;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFEtXzGzynI37LlcW_Em1zvZaGqbAb6gOzA&s" width="49%" align="center" style="margin-bottom:10px; border-radius:10px; box-shadow: 0 10px 35px rgba(0, 0, 0, 0.5);" />
+    </a>
+    <!-- Project 2 -->
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.home-interiors.in%2F1858-square-feet-double-floor-contemporary%2Fhom-1%2F&psig=AOvVaw2xIrQVw2XNsSBG3FYhd3XO&ust=1745600437748000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiQn8KS8YwDFQAAAAAdAAAAABAK" style="text-decoration:none;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFEtXzGzynI37LlcW_Em1zvZaGqbAb6gOzA&s" width="49%" align="center" style="margin-bottom:10px; border-radius:10px; box-shadow: 0 10px 35px rgba(0, 0, 0, 0.5);" />
+    </a>
+  </div>
+  
+  <!-- Project Details -->
+  <table align="center" style="border:none;">
     <tr>
-      <td width="50%">
-        <h3 align="center">E-Commerce Platform</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github.com/farhanullah5332/Farhanullah5332/blob/main/project1.png" width="100%" alt="E-Commerce Platform"/>
-          </a>
+      <td width="50%" align="center">
+        <h3>ShopEase - E-Commerce Platform</h3>
+        <p align="left">
+          A comprehensive e-commerce solution with advanced features including payment processing, product management, user authentication, wishlist functionality, and an intuitive admin dashboard.
+        </p>
+        <p align="left">
+          <strong>Key Features:</strong>
+          <ul align="left">
+            <li>Secure payment processing with Stripe integration</li>
+            <li>Advanced product filtering and search capabilities</li>
+            <li>Responsive design for all device types</li>
+            <li>Real-time inventory management</li>
+          </ul>
+        </p>
+        <p align="left">
+          <strong>Tech Stack:</strong> React, Redux Toolkit, Node.js, Express, MongoDB, JWT Auth, Stripe API
         </p>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-3a86ff?style=for-the-badge&logo=github&logoColor=white"/>
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-8338ec?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Live_Demo-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </div>
-        <p align="center">
-          <strong>React, Node.js, MongoDB, Express, Redux</strong> - Full-featured e-commerce solution with payment processing, user authentication, and admin dashboard.
-        </p>
       </td>
-      <td width="50%">
-        <h3 align="center">Social Media Dashboard</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github.com/farhanullah5332/Farhanullah5332/blob/main/project2.png" width="100%" alt="Social Media Dashboard"/>
-          </a>
+      <td width="50%" align="center">
+        <h3>ConnectHub - Social Network</h3>
+        <p align="left">
+          A feature-rich social networking platform with real-time messaging, notifications, user profiles, friend requests, news feed, and comprehensive content sharing functionality.
+        </p>
+        <p align="left">
+          <strong>Key Features:</strong>
+          <ul align="left">
+            <li>Real-time chat with read receipts</li>
+            <li>Interactive news feed with engagement metrics</li>
+            <li>Custom notification system</li>
+            <li>Media sharing with cloud storage</li>
+          </ul>
+        </p>
+        <p align="left">
+          <strong>Tech Stack:</strong> MERN Stack, Socket.io, Redux, Cloudinary, JWT Auth
         </p>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-3a86ff?style=for-the-badge&logo=github&logoColor=white"/>
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-8338ec?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Live_Demo-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </div>
-        <p align="center">
-          <strong>MERN Stack, Socket.io, Redux</strong> - Real-time social platform with messaging, notifications, and content sharing capabilities.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Task Management System</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github.com/farhanullah5332/Farhanullah5332/blob/main/project3.png" width="100%" alt="Task Management"/>
-          </a>
-        </p>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-3a86ff?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-8338ec?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </div>
-        <p align="center">
-          <strong>React, Firebase, Material-UI</strong> - Collaborative task management with team features, deadline tracking, and performance analytics.
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github.com/farhanullah5332/Farhanullah5332/blob/main/project4.png" width="100%" alt="Portfolio Website"/>
-          </a>
-        </p>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-3a86ff?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-8338ec?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </div>
-        <p align="center">
-          <strong>Next.js, Tailwind CSS, Framer Motion</strong> - Modern portfolio with animations, dark mode, and responsive design.
-        </p>
       </td>
     </tr>
   </table>
-</div>
+  
+  <div align="center">
+    <!-- Project 3 -->
+    <a href="#" style="text-decoration:none;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFEtXzGzynI37LlcW_Em1zvZaGqbAb6gOzA&s" width="49%" align="center" style="margin-bottom:10px; border-radius:10px; box-shadow: 0 10px 35px rgba(0, 0, 0, 0.5);" />
+    </a>
+    <!-- Project 4 -->
+    <a href="#" style="text-decoration:none;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFEtXzGzynI37LlcW_Em1zvZaGqbAb6gOzA&s" width="49%" align="center" style="margin-bottom:10px; border-radius:10px; box-shadow: 0 10px 35px rgba(0, 0, 0, 0.5);" />
+    </a>
+  </div>
+  
+  <!-- Project Details -->
+  <table align="center" style="border:none;">
+    <tr>
+      <td width="50%" align="center">
+        <h3>TaskFlow - Project Management</h3>
+        <p align="left">
+          A collaborative project management system with kanban boards, team assignment features, deadline tracking, performance analytics, and customizable workflows.
+        </p>
+        <p align="left">
+          <strong>Key Features:</strong>
+          <ul align="left">
+            <li>Interactive drag-and-drop task boards</li>
+            <li>Team collaboration tools</li>
+            <li>Progress tracking dashboards</li>
+            <li>Automated notifications and reminders</li>
+          </ul>
+        </p>
+        <p align="left">
+          <strong>Tech Stack:</strong> React, Firebase, Material-UI, Chart.js, Context API
+        </p>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <h3>DevFolio - Portfolio Website</h3>
+        <p align="left">
+          A modern, responsive portfolio website with smooth animations, dark/light mode toggle, project showcases, blog integration, and an interactive contact form.
+        </p>
+        <p align="left">
+          <strong>Key Features:</strong>
+          <ul align="left">
+            <li>Smooth page transitions</li>
+            <li>Dark/light theme toggle</li>
+            <li>Responsive design for all devices</li>
+            <li>Integrated blog with CMS</li>
+          </ul>
+        </p>
+        <p align="left">
+          <strong>Tech Stack:</strong> Next.js, Tailwind CSS, Framer Motion, EmailJS
+        </p>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 
 
 
