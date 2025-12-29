@@ -108,18 +108,6 @@
 
 <hr style="height:1px; border:none; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(131, 56, 236, 0.7), rgba(0, 0, 0, 0)); margin-top:20px;">
 
-<!-- PROJECTS SHOWCASE -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25">
-  <span> FEATURED PROJECTS </span>
-</h2>
-
-
-  
- 
-
-<hr style="height:1px; border:none; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(131, 56, 236, 0.7), rgba(0, 0, 0, 0)); margin-top:20px;">
-
 <!-- DEV QUOTE -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25">
