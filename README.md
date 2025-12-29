@@ -31,14 +31,9 @@
   <div align="left" style="padding: 0 15px;">
 <h3>Hi, Hello World! 👋</h3>
 <p>
-  I'm a passionate Software Engineering student and MERN stack developer from Pakistan, dedicated to building modern, scalable web applications. I enjoy transforming ideas into impactful digital solutions using clean, efficient code.
+  Enthusiastic Software Engineering student with hands-on experience in the MERN stack, building scalable, user-centric web applications. Proven ability to implement secure authentication, RESTful APIs, and responsive UIs. Recent 2025 Intern at Softoo, focused on modernizing development workflows and delivering high-performance digital solutions.
 </p>
-<ul>
-  <li>🔭 Currently developing <strong>GoHavenly</strong> — a unique property platform built with the MERN stack (without React)</li>
-  <li>🌱 Expanding my skills through full-stack projects and mastering secure web authentication</li>
-  <li>💡 I believe in clean architecture, user-centered design, and continuous learning through real-world challenges</li>
-  <li>⚡ Fun fact: I blend code with creativity — from commercial platforms to business sites like <strong>MemoraGifts</strong></li>
-</ul>
+
 
 
 
@@ -119,103 +114,7 @@
   <span> FEATURED PROJECTS </span>
 </h2>
 
-<!-- Project Cards - First Row -->
-<div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-  <!-- Project 1 -->
-  <div style="width:48%; min-width:280px; background:#1a1b27; border-radius:10px; padding:15px; margin-bottom:20px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
-    <a href="#" style="text-decoration:none;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFEtXzGzynI37LlcW_Em1zvZaGqbAb6gOzA&s" width="100%" style="border-radius:8px; margin-bottom:15px;" />
-    </a>
-    <h3 style="color:#ff6d91; margin-top:5px;">ShopEase - E-Commerce Platform</h3>
-    <p style="text-align:left; opacity:0.9;">
-      A comprehensive e-commerce solution with advanced features including payment processing, product management, user authentication, wishlist functionality, and an intuitive admin dashboard.
-    </p>
-    <div style="text-align:left; margin-top:10px;">
-      <strong>Key Features:</strong>
-      <ul style="padding-left:20px;">
-        <li>Secure payment processing with Stripe integration</li>
-        <li>Advanced product filtering and search capabilities</li>
-        <li>Responsive design for all device types</li>
-        <li>Real-time inventory management</li>
-      </ul>
-    </div>
-    <p style="text-align:left; margin-top:10px;">
-      <strong>Tech Stack:</strong> React, Redux Toolkit, Node.js, Express, MongoDB, JWT Auth, Stripe API
-    </p>
-    <div align="center" style="margin-top:15px;">
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </div>
-  </div>
-  
-  <!-- Project 2 -->
-  <div style="width:48%; min-width:280px; background:#1a1b27; border-radius:10px; padding:15px; margin-bottom:20px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
-    <a href="#" style="text-decoration:none;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFEtXzGzynI37LlcW_Em1zvZaGqbAb6gOzA&s" width="100%" style="border-radius:8px; margin-bottom:15px;" />
-    </a>
-    <h3 style="color:#ff6d91; margin-top:5px;">ConnectHub - Social Network</h3>
-    <p style="text-align:left; opacity:0.9;">
-      A feature-rich social networking platform with real-time messaging, notifications, user profiles, friend requests, news feed, and comprehensive content sharing functionality.
-    </p>
-    <div style="text-align:left; margin-top:10px;">
-      <strong>Key Features:</strong>
-      <ul style="padding-left:20px;">
-        <li>Real-time chat with read receipts</li>
-        <li>Interactive news feed with engagement metrics</li>
-        <li>Custom notification system</li>
-        <li>Media sharing with cloud storage</li>
-      </ul>
-    </div>
-    <p style="text-align:left; margin-top:10px;">
-      <strong>Tech Stack:</strong> MERN Stack, Socket.io, Redux, Cloudinary, JWT Auth
-    </p>
-    <div align="center" style="margin-top:15px;">
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </div>
-  </div>
-</div>
 
-<!-- Project Cards - Second Row -->
-<div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-  <!-- Project 3 -->
-  <div style="width:48%; min-width:280px; background:#1a1b27; border-radius:10px; padding:15px; margin-bottom:20px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
-    <a href="#" style="text-decoration:none;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFEtXzGzynI37LlcW_Em1zvZaGqbAb6gOzA&s" width="100%" style="border-radius:8px; margin-bottom:15px;" />
-    </a>
-    <h3 style="color:#ff6d91; margin-top:5px;">TaskFlow - Project Management</h3>
-    <p style="text-align:left; opacity:0.9;">
-      A collaborative project management system with kanban boards, team assignment features, deadline tracking, performance analytics, and customizable workflows.
-    </p>
-    <div style="text-align:left; margin-top:10px;">
-      <strong>Key Features:</strong>
-      <ul style="padding-left:20px;">
-        <li>Interactive drag-and-drop task boards</li>
-        <li>Team collaboration tools</li>
-        <li>Progress tracking dashboards</li>
-        <li>Automated notifications and reminders</li>
-      </ul>
-    </div>
-    <p style="text-align:left; margin-top:10px;">
-      <strong>Tech Stack:</strong> React, Firebase, Material-UI, Chart.js, Context API
-    </p>
-    <div align="center" style="margin-top:15px;">
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </div>
-  </div>
   
  
 
